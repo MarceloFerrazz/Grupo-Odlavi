@@ -1,0 +1,44 @@
+body {
+    background-color:white;
+}
+
+.navbar-item p {
+    color: #0178B2;
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.navbar-item1 p {
+    margin-top: 15px;
+    color: #88BE40;
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.click {
+    border-radius: 15px;
+    margin: auto;
+    margin-right: 40px;
+    background-color: blue
+}
+
+.column {
+    margin-top: 35px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: #0178B2;
+}
+
+.dropdown-content {
+    margin-left: -150px;
+    margin-right: 92px;
+}
+
+.text {
+
+    font-size: 30px;
+    text-align: center;
+    color:#0178B2;
+}
